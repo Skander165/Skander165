@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Angular, Springboot, Asp.NET core and Typescript**
 
-- 👯 I’m looking to collaborate and freelance in ** projects**
+- 👯 I’m looking to collaborate and freelance in **projects**
 
 - 👨‍💻 All of my projects are available here in github check them out.
 
